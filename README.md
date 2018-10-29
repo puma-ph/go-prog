@@ -1,4 +1,4 @@
-# go-prog
+# GoLang
 
 Go programs 
 
